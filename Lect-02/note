@@ -1,0 +1,38 @@
+//! Node.js Basic:
+//! Indro. to Node.js.
+//! Installing Node.js and Npm.
+//! Working with Modules.
+//! File system operations.
+//! Understanding HTTP module.
+
+//? Node.js Basic:
+// proggramming language ❌
+// technology ❌
+// framework ❌
+// library ❌
+// Noe is a js runtime environment ✅
+
+//? Installing Node.js and Npm.
+// node & npm -> node -v
+//? Node.js is a runtime environment that allows you to run JavaScript code on the server side.
+// working with node and npm
+// npm init -y
+// npm basic usages
+npm init --> Package.json  --> lekha jokha of the project
+
+
+
+//! Understanding HTTP module.
+// HTTP module allows creating web servers and handling requests/responses
+// const http = require('http');
+// http.createServer() - creates a new HTTP server
+// server.listen() - makes server listen on specific port
+// request and response objects for handling client communication
+
+//! HTTPS Protocol:
+// HTTPS (HTTP Secure) - encrypted version of HTTP using SSL/TLS
+// const https = require('https');
+// requires SSL certificates for secure connection
+// https.createServer(options, callback) - options include key and cert
+// more secure for sensitive data transmission
+// default port 443 (vs HTTP port 80)
