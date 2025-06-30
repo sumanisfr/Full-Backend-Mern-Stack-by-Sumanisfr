@@ -1,4 +1,4 @@
-# Backend Development Course - Lectures 1-14
+# Backend Development Course - Lectures 1-16
 
 ## Course Overview
 This repository contains backend development materials covering fundamental concepts and practical implementations across 14 comprehensive lectures.
