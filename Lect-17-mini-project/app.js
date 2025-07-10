@@ -1,3 +1,5 @@
+// LiteConnect – User login, posts, and likes made simple
+
 const express = require("express");
 const app = express();
 const userModel = require("./models/user");
