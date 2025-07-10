@@ -118,7 +118,7 @@ This repository contains backend development materials covering fundamental conc
 - Message queues and event-driven architecture
 - Design patterns for scalable applications
 
-### Lecture 17 - Mini Project: LiteConnect
+### Lecture 17-18-19 - Mini Project: LiteConnect
 
 **A complete social media backend application implementing core features**
 
@@ -204,6 +204,31 @@ LiteConnect/
 4. Run database migrations: `npm run migrate`
 5. Start development server: `npm run dev`
 6. Access API documentation at `http://localhost:3000/api-docs`
+
+### Lect-20-21 (multer and upload)
+
+- Introduction to file handling in web applications
+- Understanding multipart/form-data
+- File validation and security considerations
+- Storage options: local vs cloud storage
+
+- Multer installation and configuration
+- Single and multiple file uploads
+- File filtering and validation
+- Memory vs disk storage engines
+- Custom filename and destination handling
+
+- Image processing with Sharp
+- File compression and optimization
+- Progress tracking for large uploads
+- Chunked file uploads for better performance
+- Error handling and recovery strategies
+
+- AWS S3 integration for file storage
+- Cloudinary for image management
+- Direct browser-to-cloud uploads
+- CDN implementation for file delivery
+- Cost optimization strategies for file storage
 
 ## Prerequisites
 
